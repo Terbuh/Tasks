@@ -1,4 +1,5 @@
 Tasks
+
 Opis
 Tasks to aplikacja do zarządzania zadaniami, która umożliwia tworzenie, odczytywanie, aktualizowanie oraz usuwanie zadań (CRUD). Dodatkowo, aplikacja pozwala na wysyłanie SMS-ów z informacjami o zadaniach.
 
